@@ -1,0 +1,6 @@
+{
+  "name": "Amanix",
+  "description": "Real AI Assistant: Think • Search • Create • Grow",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
